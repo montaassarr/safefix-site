@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <title>SafeFix</title>
+  <rect width="32" height="32" rx="8" fill="#17110d"/>
+  <g transform="translate(4 4)" fill="none" stroke="#e4ce9d" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10.6 3.3 6.4 4.85Q5 5.35 5 6.8V9.4Q5 10.9 3.7 11.25Q5 11.6 5 13.1Q5.4 17.6 10.6 20.7"/>
+    <path d="M13.4 3.3 17.6 4.85Q19 5.35 19 6.8V9.4Q19 10.9 20.3 11.25Q19 11.6 19 13.1Q18.6 17.6 13.4 20.7"/>
+    <path d="m9.1 11.6 2 2 3.8-4.1"/>
+  </g>
+</svg>
